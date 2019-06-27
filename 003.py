@@ -3,7 +3,7 @@ xyz='aeiouAEIOU'
 x='BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz'
 g=input()
 if g in xyz:
-  print("vowel")
+  print("Vowel")
 elif g in x:
   print("Consonant")
 else:
