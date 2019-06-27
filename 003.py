@@ -1,10 +1,10 @@
 import sys
-vow1='aeiouAEIOU'
+xyz='aeiouAEIOU'
 x='BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz'
-c=input()
-if c in vow1:
+g=input()
+if g in xyz:
   print("vowel")
- elif c in x:
+ elif g in x:
   print("Consonant")
 else:
   print("invalid")
